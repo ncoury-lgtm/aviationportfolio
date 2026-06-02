@@ -1,4 +1,4 @@
-# Commercial Aviation Lookup API
+# Commercial Aviation Lookup API ADS-B
 
 A public portfolio API hosted through Cloudflare Pages Functions and GitHub.
 
@@ -13,3 +13,4 @@ GET /api/aviation/status
 GET /api/aviation/search?q=AA123
 GET /api/aviation/flight/:flightNumber
 GET /api/aviation/tail/:tailNumber
+
