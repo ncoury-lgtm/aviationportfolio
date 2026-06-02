@@ -14,3 +14,4 @@ GET /api/aviation/search?q=AA123
 GET /api/aviation/flight/:flightNumber
 GET /api/aviation/tail/:tailNumber
 
+Currently in Demo mode while being built
